@@ -56,14 +56,14 @@ http://localhost:3000
 ## Author
 
 Cheran Govindharaj
+
 ## Screenshots
 
 ### Login Page
 ![Login](screenshotslogin.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### AI Expense Analyzer
-![AI](screenshots/ai_analysis.png)
-
+![AI](AI_Analyzer.png)
