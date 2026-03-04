@@ -61,3 +61,9 @@ Cheran Govindharaj
 ### Login Page
 ![Login](screenshotslogin.png)
 
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### AI Expense Analyzer
+![AI](screenshots/ai_analysis.png)
+
